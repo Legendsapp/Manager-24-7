@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "I'm a manager",
+        "Hello, nice to see you",
+        "Play nicely"
+        "Have Fun"
       ]
     },
     "chat-log": true,
