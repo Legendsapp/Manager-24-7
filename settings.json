@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "play4public.aternos.me",
+    "ip": "AetherCrest.aternos.me",
     "port": 19427,
     "version": "1.20.1",
     "try-creative": false
